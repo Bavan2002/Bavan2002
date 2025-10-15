@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sundar Bavan
+# 👋 Hi, I'm Sundar
 
 🎓 **Electronics and Telecommunication Engineering Undergraduate**  
 University of Moratuwa, Sri Lanka  
