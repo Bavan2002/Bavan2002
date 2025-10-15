@@ -1,23 +1,23 @@
-# 👋 Hi, I'm Sundar
+# Hi, I'm Sundar
 
-🎓 **Electronics and Telecommunication Engineering Undergraduate**  
+**Electronics and Telecommunication Engineering Undergraduate**  
 University of Moratuwa, Sri Lanka  
 
-💼 **Part-time Associate Engineer** at [Aevocode (Pvt) Ltd](https://www.linkedin.com/company/aevocode/)
+**Part-time Associate Engineer** at [Aevocode (Pvt) Ltd](https://www.linkedin.com/company/aevocode/)
 
 ---
 
-### 💡 Interests
+### Interests
 - Digital System Design  
 - Robotics  
 - Artificial Intelligence / Machine Learning  
 
 ---
 
-### 🧰 Tools & Technologies
+### Tools & Technologies
 Vivado · Altium Designer · C++ · Python  
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sundarbavan-thanaraj-1830b4218)
