@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Sundar Bavan
 
-<!--
-**Bavan2002/Bavan2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Electronics and Telecommunication Engineering Undergraduate**  
+University of Moratuwa, Sri Lanka  
 
-Here are some ideas to get you started:
+💼 **Part-time Associate Engineer** at [Aevocode (Pvt) Ltd](https://www.linkedin.com/company/aevocode/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💡 Interests
+- Digital System Design  
+- Robotics  
+- Artificial Intelligence / Machine Learning  
+
+---
+
+### 🧰 Tools & Technologies
+Vivado · Altium Designer · C++ · Python  
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sundarbavan-thanaraj-1830b4218)
