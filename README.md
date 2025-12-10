@@ -8,9 +8,12 @@ University of Moratuwa, Sri Lanka
 ---
 
 ### Interests
+- FPGA System
+- Embedded System
+- Digital IC Design
+- Hardware Accelerator for ML/AI
 - Digital System Design  
 - Robotics  
-- Artificial Intelligence / Machine Learning  
 
 ---
 
