@@ -1,24 +1,45 @@
-# Hi, I'm Sundar
+# Hi, I'm Sundarbavan
 
-**Electronics and Telecommunication Engineering Undergraduate**  
-University of Moratuwa, Sri Lanka  
+Electronic and Telecommunication Engineering undergraduate at the University of Moratuwa, Sri Lanka, with a strong focus on FPGA based acceleration, digital microarchitecture, and hardware/software co-design.
 
-**Part-time Associate Engineer** at [Aevocode (Pvt) Ltd](https://www.linkedin.com/company/aevocode/)
-
----
-
-### Interests
-- FPGA System
-- Embedded System
-- Digital IC Design
-- Hardware Accelerator for ML/AI
-- Digital System Design  
-- Robotics  
+Currently working as a **Part-time Associate Engineer** at [**Aevocode (Pvt) Ltd**](https://www.linkedin.com/company/aevocode/), contributing to real time FPGA systems, high speed interfaces, and embedded Linux integration.
 
 ---
 
-### Tools & Technologies
-Vivado · Altium Designer · C++ · Python  
+## Technical Focus
+- FPG -based hardware acceleration for performance critical workloads  
+- RTL design and digital microarchitecture (pipelining, FSMs, control/data paths)  
+- High speed interfaces and timing aware system integration  
+- Hardware/software co-design for real time embedded systems  
+
+---
+
+## Core Skills
+**Digital Design & HDL:** Verilog, SystemVerilog  
+**FPGA Tools:** Vivado, Quartus  
+**Embedded & Low-Level Software:** C, C++, Linux kernel drivers  
+**Scripting & Automation:** Python, Bash, Makefiles  
+**Verification:** Cocotb  
+
+---
+
+## Selected Projects
+- **FPGA-Based Gemma SLM Accelerator**  
+  Custom FPGA accelerator for a small language model, optimizing matrix operations and attention kernels for edge deployment.  
+  *DVCon India 2025 Design Contest – 1st Runner-up*
+
+- **Pipelined RISC-V (RV32I) Processor**  
+  Five-stage pipelined processor with control hazard handling, data hazard management, and UART-based debug infrastructure.
+
+- **Lightweight Serial System Bus**  
+  Custom multi-master serial bus with split transactions, FIFO buffering, and FSM-based protocol control.
+
+(See pinned repositories for implementation details.)
+
+---
+
+## Interests
+FPGA systems · Hardware acceleration · Digital IC design · Low-latency architectures · Embedded systems
 
 ---
 
