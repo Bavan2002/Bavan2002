@@ -27,6 +27,9 @@ Currently working as a **Part-time Associate Engineer** at [**Aevocode (Pvt) Ltd
 - [**FPGA-Based Gemma SLM Accelerator**](https://github.com/Bavan2002/SLM_Accelerator)
   Custom FPGA accelerator for a small language model, optimizing matrix operations and attention kernels for edge deployment.  
   *DVCon India 2025 Design Contest – 1st Runner-up*
+  
+- [**SIMD CNN Processor**](https://github.com/Bavan2002/SIMD_CNN_Processor)
+  Custom FPGA-based SIMD processor for convolutional neural networks, exploiting data-level parallelism to accelerate convolution, activation, and pooling operations on resource-constrained hardware.
 
 - [**Pipelined RISC-V (RV32I) Processor**](https://github.com/Bavan2002/RISC-V-Processor)
   Five-stage pipelined processor with control hazard handling, data hazard management, and UART-based debug infrastructure.
