@@ -7,7 +7,7 @@ Currently working as a **Part-time Associate Engineer** at [**Aevocode (Pvt) Ltd
 ---
 
 ## Technical Focus
-- FPG -based hardware acceleration for performance critical workloads  
+- FPGA-based hardware acceleration for performance critical workloads  
 - RTL design and digital microarchitecture (pipelining, FSMs, control/data paths)  
 - High speed interfaces and timing aware system integration  
 - Hardware/software co-design for real time embedded systems  
